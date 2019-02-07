@@ -83,4 +83,5 @@ Mediante json podremos enviar y pragmar los datos de la base de datos dentro del
 ![uso del js para el grafico](https://user-images.githubusercontent.com/43339357/52411855-66a8fa80-2add-11e9-9218-5f4a92210090.PNG)
                 
 ### CSS
-Hemos utilizado nuestro propio css para decorar y personalizar los html empleados. Ejemplo:
+Hemos utilizado nuestro propio css para decorar y personalizar los html empleados. Ejemplo:![css para decorar nuestras paginas html](https://user-images.githubusercontent.com/43339357/52411884-7aecf780-2add-11e9-905c-9c7554565e32.PNG)
+
