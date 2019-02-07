@@ -63,17 +63,17 @@ PHP
 ## INFORMACION TECNICA
 
 ### TWIG
-                Twig es una herramienta que solo hace falta instalar una vez. Dicha herramienta nos permite renderizar los html y aparte poder enviar/recibir datos desde php. Por ejemplo: En este ejemplo podemo apreciar como un el log.php tenemos este codigo el cual nos renderiza y envia un error mediante php a una pagina html.
+                        Twig es una herramienta que solo hace falta instalar una vez. Dicha herramienta nos permite renderizar los html y aparte poder enviar/recibir datos desde php. Por ejemplo: En este ejemplo podemo apreciar como un el log.php tenemos este codigo el cual nos renderiza y envia un error mediante php a una pagina html.
                 
                 
 ### SESSIONS    
-                Ya que usamos la renderizacion proporcionada de twig, no usaremos HTML, sino que nuestra herramienta y lenguaje de trabajo sera solamente php. Para controlar los php nos hacemos valer de la herrmamienta SESSION la cual nos permite controlar y dirigir el trafico de usuarios logueado en nuestro sistema. Ejemplo grafico: 
+                        Ya que usamos la renderizacion proporcionada de twig, no usaremos HTML, sino que nuestra herramienta y lenguaje de trabajo sera solamente php. Para controlar los php nos hacemos valer de la herrmamienta SESSION la cual nos permite controlar y dirigir el trafico de usuarios logueado en nuestro sistema. Ejemplo grafico: 
                 
 ### CONEXION A MYSQL    
-                En nuestro proyecto, al igual que en el resto de proyectos, tenemos una base de datos en la cual recopilamos y almacenamos los datos de basicamente todo lo que pasa en nuestro sistema (administradores,usuarios,codigos...). La manera de conectarse a las bases de datos, es decir el codigo implementado es el siguiente:
+                        En nuestro proyecto, al igual que en el resto de proyectos, tenemos una base de datos en la cual recopilamos y almacenamos los datos de basicamente todo lo que pasa en nuestro sistema (administradores,usuarios,codigos...). La manera de conectarse a las bases de datos, es decir el codigo implementado es el siguiente:
                 
 ### JSON 
-                Mediante json podremos enviar y pragmar los datos de la base de datos dentro del esquema analitico que hemos creado (esquemadatos.php/html)ya que dentro de este html nos encontramos con la problematica de que utiliza el lenguaje JavaScript para usar los datos. El codigo utilizado es el siguiente: 
+                        Mediante json podremos enviar y pragmar los datos de la base de datos dentro del esquema analitico que hemos creado (esquemadatos.php/html)ya que dentro de este html nos encontramos con la problematica de que utiliza el lenguaje JavaScript para usar los datos. El codigo utilizado es el siguiente: 
                 
 ### CSS
-                Hemos utilizado nuestro propio css para decorar y personalizar los html empleados. Ejemplo:
+                        Hemos utilizado nuestro propio css para decorar y personalizar los html empleados. Ejemplo:
