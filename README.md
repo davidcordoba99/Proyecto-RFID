@@ -56,5 +56,5 @@ PHP
 
 1. Descargar el rar y el sql que estan en este repositorio.
 2. Descomprimir el rar en el directorio de vuestra pagina web
-3. importar el sql dependiendo que programa o servicio useis sera un comando u otro, recomendamos mysql comando "mysql -u <username> -p <databasename> < missing.sql". ** importante la base de datos puede que tengais que crearla manualmente **
+3. importar el sql dependiendo que programa o servicio useis sera un comando u otro, recomendamos mysql comando "mysql -u <username> -p <databasename> < missing.sql". **importante la base de datos puede que tengais que crearla manualmente**
 4. **Acceder a localhost y elegir la carpeta de PHP, que es la nuestro proyecto.**
