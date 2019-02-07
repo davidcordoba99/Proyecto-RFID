@@ -74,7 +74,8 @@ Ya que usamos la renderizacion proporcionada de twig, no usaremos HTML, sino que
 
                 
 ### CONEXION A MYSQL    
-En nuestro proyecto, al igual que en el resto de proyectos, tenemos una base de datos en la cual recopilamos y almacenamos los datos de basicamente todo lo que pasa en nuestro sistema (administradores,usuarios,codigos...). La manera de conectarse a las bases de datos, es decir el codigo implementado es el siguiente:
+En nuestro proyecto, al igual que en el resto de proyectos, tenemos una base de datos en la cual recopilamos y almacenamos los datos de basicamente todo lo que pasa en nuestro sistema (administradores,usuarios,codigos...). La manera de conectarse a las bases de datos, es decir el codigo implementado es el siguiente:![conexion a la base de datos](https://user-images.githubusercontent.com/43339357/52411826-51cc6700-2add-11e9-8fc6-d7edc2086a35.PNG)
+
                 
 ### JSON 
 Mediante json podremos enviar y pragmar los datos de la base de datos dentro del esquema analitico que hemos creado (esquemadatos.php/html)ya que dentro de este html nos encontramos con la problematica de que utiliza el lenguaje JavaScript para usar los datos. El codigo utilizado es el siguiente: 
