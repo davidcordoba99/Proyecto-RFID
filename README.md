@@ -26,6 +26,7 @@ PHP
 
 
 |--->arducode // Aqui dentro esta la parte que simula el arduino. Parte 1 (Sinceramente no le haria caso a la parte 1 ya que la hemos desatendido completamente esta solo para hacer pruebas)
+![captura](https://user-images.githubusercontent.com/43339357/52412081-154d3b00-2ade-11e9-8193-f7f77f7653f4.PNG)
 
 
         A partir de aqui nos centraremos en describir la parte admnistrativa y como hacer un buen uso.
