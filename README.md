@@ -69,7 +69,9 @@ Twig es una herramienta que solo hace falta instalar una vez. Dicha herramienta 
                 
                 
 ### SESSIONS    
-Ya que usamos la renderizacion proporcionada de twig, no usaremos HTML, sino que nuestra herramienta y lenguaje de trabajo sera solamente php. Para controlar los php nos hacemos valer de la herrmamienta SESSION la cual nos permite controlar y dirigir el trafico de usuarios logueado en nuestro sistema. Ejemplo grafico: 
+Ya que usamos la renderizacion proporcionada de twig, no usaremos HTML, sino que nuestra herramienta y lenguaje de trabajo sera solamente php. Para controlar los php nos hacemos valer de la herrmamienta SESSION la cual nos permite controlar y dirigir el trafico de usuarios logueado en nuestro sistema. Ejemplo grafico: ![controlar session iniciada o no](https://user-images.githubusercontent.com/43339357/52411790-34979880-2add-11e9-852d-a2d020eb9238.PNG)
+![inicio session](https://user-images.githubusercontent.com/43339357/52411794-36615c00-2add-11e9-8be3-2e9c0c29d55e.PNG)
+
                 
 ### CONEXION A MYSQL    
 En nuestro proyecto, al igual que en el resto de proyectos, tenemos una base de datos en la cual recopilamos y almacenamos los datos de basicamente todo lo que pasa en nuestro sistema (administradores,usuarios,codigos...). La manera de conectarse a las bases de datos, es decir el codigo implementado es el siguiente:
