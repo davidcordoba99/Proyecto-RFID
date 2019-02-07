@@ -10,7 +10,7 @@ OBJETIVO: Nuestro proyecto debe tener dos partes
 1. La parte en la que el usuario ficha, luz roja no esta registrado ese codigo en la Base de datos y luz verde se inserta en la base de datos la hora en la que has entrado con el codigo.
 2. Parte administrativa, la cual se usara para ver estadisticas, crear usuarios nuevos del sistema MISSING y poder hacer modificaciones en ellos.
 
-REALIDAD: 
+#REALIDAD: 
 
 1. Esta parte es simulada, y como no teniamos los recursos suficientes, hemos creado algo muy basico y simple para no perder demasiado tiempo en el cual 0 y 1 son luz roja y verde.(no se inserta nada en la base de datos porque no queriamos perder tiempo en este apartado del proyecto, ya que se valoraba mas el backend)
 2. La administración esta hecha, no terminada, pero tenemos estadisticas, todos las paginas se renderizan por lo tanto no hay html visibles, las estadisticas estan (mejorable pero con algo mas de timepo). La base de todo esta solo quedaria meterle horas al css y pensar en los comandos y tablas sql.
@@ -18,7 +18,7 @@ REALIDAD:
 
 Como usar el proyecto:
 
-DIRECTORIO:
+#DIRECTORIO:
 
 PHP
 |
