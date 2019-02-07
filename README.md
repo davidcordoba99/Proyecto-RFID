@@ -64,6 +64,8 @@ PHP
 
 ### TWIG
 Twig es una herramienta que solo hace falta instalar una vez. Dicha herramienta nos permite renderizar los html y aparte poder enviar/recibir datos desde php. Por ejemplo: En este ejemplo podemo apreciar como un el log.php tenemos este codigo el cual nos renderiza y envia un error mediante php a una pagina html. ![llamado al programa twig](https://user-images.githubusercontent.com/43339357/52411705-f0a49380-2adc-11e9-82cc-4109cc24a382.PNG)
+![renderizacion de twig y envio de error al html](https://user-images.githubusercontent.com/43339357/52411740-1467d980-2add-11e9-8a97-4e5fbba42bb0.PNG)
+
                 
                 
 ### SESSIONS    
