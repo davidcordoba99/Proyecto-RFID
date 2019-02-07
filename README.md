@@ -51,3 +51,10 @@ PHP
 
 
 |--->En caso de que clikemos en la pestaña de Log Out, el usuario administrador que tenga la sesion iniciada la cerrara y le consecuencia se le redirigira al index.php inicial.
+
+## INSTALACION
+
+1. Descargar el rar y el sql que estan en este repositorio.
+2. Descomprimir el rar en el directorio de vuestra pagina web
+3. importar el sql dependiendo que programa o servicio useis sera un comando u otro, recomendamos mysql comando "mysql -u <username> -p <databasename> < missing.sql". ** importante la base de datos puede que tengais que crearla manualmente **
+4. **Acceder a localhost y elegir la carpeta de PHP, que es la nuestro proyecto.**
