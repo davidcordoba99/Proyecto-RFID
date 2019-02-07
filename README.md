@@ -78,7 +78,9 @@ En nuestro proyecto, al igual que en el resto de proyectos, tenemos una base de 
 
                 
 ### JSON 
-Mediante json podremos enviar y pragmar los datos de la base de datos dentro del esquema analitico que hemos creado (esquemadatos.php/html)ya que dentro de este html nos encontramos con la problematica de que utiliza el lenguaje JavaScript para usar los datos. El codigo utilizado es el siguiente: 
+Mediante json podremos enviar y pragmar los datos de la base de datos dentro del esquema analitico que hemos creado (esquemadatos.php/html)ya que dentro de este html nos encontramos con la problematica de que utiliza el lenguaje JavaScript para usar los datos. El codigo utilizado es el siguiente: ![creacion del json y envio al html](https://user-images.githubusercontent.com/43339357/52411853-66106400-2add-11e9-8c87-638b2e4d985a.PNG)
+![json en el html aqui se envia el array de datos y se crea la variable para poder usarla en los graficos como debe ser un array hemos tenido que programar en js](https://user-images.githubusercontent.com/43339357/52411854-66a8fa80-2add-11e9-8dc8-f0534a630cd9.PNG)
+![uso del js para el grafico](https://user-images.githubusercontent.com/43339357/52411855-66a8fa80-2add-11e9-9218-5f4a92210090.PNG)
                 
 ### CSS
 Hemos utilizado nuestro propio css para decorar y personalizar los html empleados. Ejemplo:
