@@ -88,3 +88,5 @@ Mediante json podremos enviar y pragmar los datos de la base de datos dentro del
 ### CSS
 Hemos utilizado nuestro propio css para decorar y personalizar los html empleados. Ejemplo:![css para decorar nuestras paginas html](https://user-images.githubusercontent.com/43339357/52411884-7aecf780-2add-11e9-905c-9c7554565e32.PNG)
 
+
+                                                                                                David Cordoba y Kevin Fernandez ASIR2
